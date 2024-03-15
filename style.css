@@ -1,0 +1,23 @@
+li{
+    font-weight: normal;
+}
+
+.color{
+    color:grey;
+}
+
+#id-color-vocab{
+    color:navy;
+}
+
+li[value="2"]{
+    color:brown;
+}
+
+li[value="4"]{
+    color:pink;
+}
+
+li[value="5"]{
+    color:green;
+}
